@@ -1,4 +1,2 @@
 openai==1.97.0
-Pillow==11.3.0
-streamlit==1.39.0
 streamlit==1.46.0
